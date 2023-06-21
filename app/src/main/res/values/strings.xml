@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Muslim daily</string>
+    <!-- API KEY for Maps   -->
+    <string name="google_maps_key">AIzaSyDmx_vZlK6C3BpYfw629L5YNPS6qGQ4Eus</string>
+</resources>
